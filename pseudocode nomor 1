@@ -1,0 +1,9 @@
+START
+
+1. READ 'm' EQUAL to 600kg
+2. READ 'a' pushed BY 3 peoples and GET VALUE 2m/s2
+3. STORE 'ΣF' EQUAL to 'm' MULTIPLY WITH 'a'
+4. CALCULATE 'ΣF' WITH VALUE OF 'm' MULTIPLY VALUE of 'a'
+5. DISPLAY 'ΣF'
+
+END
