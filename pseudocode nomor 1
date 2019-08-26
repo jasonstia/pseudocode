@@ -1,9 +1,19 @@
+algoritma
+
+1. di ketahui 'm' memiliki value 600kg
+2. di ketahui 'a' di dorong 3 orang memiliki value 2m/s2
+3. di ketahui nilai 'ΣF' bisa di cari memakai rumus 'm' di kali 'a'
+4. hitung nilai 'ΣF' 
+5. tampilkan hasil dari 'ΣF'
+
+pseudocode
+
 START
 
-1. READ 'm' EQUAL to 600kg
-2. READ 'a' pushed BY 3 peoples and GET VALUE 2m/s2
-3. STORE 'ΣF' EQUAL to 'm' MULTIPLY WITH 'a'
-4. CALCULATE 'ΣF' WITH VALUE OF 'm' MULTIPLY VALUE of 'a'
-5. DISPLAY 'ΣF'
+    READ 'm' EQUAL to 600kg
+    READ 'a' pushed BY 3 peoples and GET VALUE 2m/s2
+    STORE 'ΣF' EQUAL to 'm' MULTIPLY WITH 'a'
+    CALCULATE 'ΣF' WITH VALUE OF 'm' MULTIPLY VALUE of 'a'
+    DISPLAY 'ΣF'
 
 END

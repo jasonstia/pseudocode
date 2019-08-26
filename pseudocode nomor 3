@@ -1,0 +1,16 @@
+algortima
+
+1. tentukan 1 pakaian
+2. mulai hitung pakaian
+3. berhenti di 20 pakaian
+4. laluy masukan pakaian
+5. nyalakan mesin cuci
+
+
+START
+SET counting to 1
+    INCREMENT counting
+    IF 'clothes' EQUALS TO 20
+        PUT THE 'clothes' TO WASHING MACHINE
+    END IF
+END

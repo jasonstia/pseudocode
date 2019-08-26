@@ -1,0 +1,24 @@
+algoritma
+
+1. di ketahui 'tahun kabisat' adalah 29 februari
+2. jika 'tahun' habis di bagi 4,
+3. tahun itu adalah tahun kabisat
+4. jika 'tahun' habis di bagi 400 dan habisa di bagi 100 dan habis di bagi 4
+5. tahun itu adalah kabisat
+6. jika 'tahun' habisa di bagi 400 
+5. tahun itu adalah tahun kabisat
+6. sisanya bukan tahun kabisat
+
+pseudocode
+
+START
+    IF 'year' DIVIDED BY 4 EQUALS 0
+        DISPLAY 'true'
+    ELSE IF 'year' DIVIDED BY 400 and DIVIDED BY 100 and DIVIDED 4 EQUALS 0
+        DISPLAY 'true'
+    ELSE IF 'year' DIVIDED BY 400 EQUALS 0
+        DISPLAY 'true'
+    ELSE 
+        DISPLAY 'false'
+    END IF
+END

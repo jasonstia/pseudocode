@@ -1,0 +1,23 @@
+algorithm
+
+1. guru akan cek kuku dari murid 1 
+2. lalu akan berjalan dan cek sampai ke murid 40
+3. jika kuku murid ada yang panjang
+4. guru akan menghukum murid tersebut
+5. jika tidak ada kuku murid yang panjang
+6. guru akan memuji murid tersebut
+
+
+pseudocode
+
+START
+    SET 'moveCount' TO 1
+    FOR EACH STUDENT ON THE DESK
+    IF OBTAIN 'long nails' THEN 
+        TEACHER PUNISH THE STUDENT
+        INCREMENT 'moveCount'
+    ELSE
+        TEACHER COMPLIMENT THE STUDENT
+    END IF
+END 
+        
